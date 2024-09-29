@@ -2,7 +2,7 @@
 
 This repository contains a data analysis dashboard that visualizes various aspects of retail sales data, including product category distribution, sales revenue, and marketing spend. The dashboard provides insights into sales trends across different time periods and product categories.
 
-![Dashboard Screenshot]((https://github.com/NavAneEth777/Retail-Sales-Data-Analysis/blob/main/Screenshot.png?raw=true)
+![image alt](https://github.com/NavAneEth777/Retail-Sales-Data-Analysis/blob/main/Screenshot.png?raw=true)
 
 ## Features
 
